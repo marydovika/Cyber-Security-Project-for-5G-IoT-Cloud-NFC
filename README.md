@@ -5,7 +5,9 @@
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //////////////////////////////////////////////
-Title:
+
+#####Title:
+
 Cyber security evaluation and mitigation for future wireless networks, 5G, IoT, NTC and cloud storage systems (An Offensive and Defensive Technical Approach)
 
 ######Problem statement:
@@ -15,6 +17,7 @@ It is worth acknowledging that, the high data rates required for the increasing 
 ######Justification:
 
 I have taken on the challenge to evaluate, and make an inquiry in possible cyber security mitigation in wireless networks and cloud systems, with emerging IoT systems, automation of different activities in health, agriculture, government, mobile banking/mobile money and education(e-learning platforms ), all of which require internet connectivity, security of data transfers should be ensured, hackers can cost a company a great deal of money, reputation, and test its competence to protecting the information of its customers.
+
 #####Scope:
 
 1. Encryption algorithms
