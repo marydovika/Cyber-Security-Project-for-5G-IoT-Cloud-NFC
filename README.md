@@ -5,7 +5,7 @@
 
 #####Title:
 
-Cyber security evaluation and mitigation for future wireless networks, 5G, IoT, NTC and cloud storage systems (An Offensive and Defensive Technical Approach)
+Cyber security evaluation and mitigation for future wireless networks, 5G, IoT, NFC and cloud storage systems (An Offensive and Defensive Technical Approach)
 
 ######Problem statement:
 
