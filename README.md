@@ -8,24 +8,10 @@
 Cyber security evaluation and mitigation for future 5G wireless networks; IoT, NFC and cloud storage systems
 (An Offensive and Defensive Technical Approach)
 
+######Abstract:
+In the near future, after, 2020 when 5G has been launched, 5G and the next generation networks will be characterized by; low latency, improved throughout, low transmit-recieve power, and * consequently improved QOS. This has been proposed to be achieved by, mmwave, MU-MIMO, SDR(C-RAN), MEC, NFV, and SDN, with IoT and Cloud computing as major enablers. Due to softwarization ie SDN, and network slicing ie NFV, new cyber security threat vectors, are introduced. On that issue, 5G will be the cellular radio for IoT, and cloud computing networks to ensure total QoS, a proper security architecture should be developed. In this paper, I will cover; (1) The basic cyber security concepts, like; risk management, assurance, secSDLC models, encryption and ACs models,  the 5G, IoT and Cloud computing security architectures/frameworks, and cyber policy of Uganda, and the USA. (2)  For each of the architectures, I shall demonstrate the countermeasures to the threat vectors cited, demonstrate network security techniques , and encryption algorithms. Part (1) will be theoretical, and Part (2) will be a practical demo of cyber security tools, ie Defensive (Proactive), and Offensive (Reactive).
+Key terms: secSDLC, 5G, 3GPP, 5GPPP, mmwave, MEC, NFV, SDN, SDR, IoT, ACs, eMBB, mMTC, uRLLC, PaaS, IaaS, SaaS, smart city, smart grid, smart home, etc
+
 ######Problem statement:
 
-The increasing demands for real-time communication/ streaming services , VR and AR, NFC, smart grid and IoT/ IoE that put all kinds of data on a network from health, agriculture, education, etc and the effort of the government to digitize all communication, and aslo the increasing electronic money transfers, all these generate huge amounts of data, hence Big-data, this poses a problem that preambles security of networks, I have singled out cyber-security to be my center of my discussion, research and inquiry, all said, the security of the huge amounts of data put on the network; in transit, and in cloud and other storage servers on the network has to be handled with great concern.
-
-######Justification:
-
-I have taken on the challenge to evaluate, and make an inquiry in possible cyber security mitigation in wireless networks and cloud systems, with emerging IoT systems, automation of different activities in health, agriculture, government, mobile banking/mobile money and education(e-learning platforms ), all of which require internet connectivity, security of data transfers should be ensured, hackers can cost a company a great deal of money, reputation, and test its competence to protecting the information of its customers.
-
-#####Scope:
-
-The following practical activities will be carried out during the course of the project
-:
-Wireless Encryption algorithms, munged passwords with MATLAB
-History of hacking and Ethical hacking.
-Tools used in penetration testing, social engineering and vulnerability tests with kali linux for wireless networks.
-Security models with GNS3 simulation
-Security with python programming.
-Security in the application layer and network layer (ipv4 and ipv6) analysis with wireshark, (software systems security).
-Tools and remedies to secure hardware systems (Unix, Cisco, Juniper and Hauwei hardware systems).
-5G, IoT, NFC, Smart grid cyber security and cloud storage security concerns.
-Cyber security policies, including the GDPR. And UGCERT activity review
+The increasing demands for real-time communication/ streaming 4k videos, gaming , VR, MR and AR and IoT/ IoE (smart home,  smart grid, smart city, v2x) that put a constraint on traditional storage, raising need for cloud computing. The data on a network includes personal health data, agriculture, education, e-government, e-commerce including, the increasing electronic money transfers etc. All together  with the effort of the government to digitize all communication, all these services , and efforts generate huge amounts of data, Big-data, this poses a problem ensuring security, CIA Triad. I have singled out cyber-security to be the focus of this paper. All said, the security of data put on the network; in transit, and in cloud and other storage servers has to be handled with great concern. With the proposed 5G network to be rolled-out by 2020, I advocate for a secure architecture, by reviewing the security  layers. 
